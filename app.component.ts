@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import * as ol from 'openlayers';
 
-const API_END_POINT = 'http://147.135.254.166:15082/pois';
+const API_END_POINT = 'http://my.rest.end.point';
 
 @Component({
   selector: 'app-root',
