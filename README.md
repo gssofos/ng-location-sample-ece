@@ -10,6 +10,7 @@
 
 ```bash
 ng new poi-cli
+cd poi-cli
 npm i openlayers
 npm i @types/openlayers -D
 ```
